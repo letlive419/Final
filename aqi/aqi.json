@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "data": {
+        "city": "Homestead",
+        "state": "Florida",
+        "country": "USA",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -80.4828,
+                25.4719
+            ]
+        },
+        "current": {
+            "weather": {
+                "ts": "2021-07-18T16:00:00.000Z",
+                "tp": 31,
+                "pr": 1021,
+                "hu": 69,
+                "ws": 3.13,
+                "wd": 111,
+                "ic": "03d"
+            },
+            "pollution": {
+                "ts": "2021-07-18T15:00:00.000Z",
+                "aqius": 22,
+                "mainus": "p2",
+                "aqicn": 8,
+                "maincn": "p2"
+            }
+        }
+    }
+}
